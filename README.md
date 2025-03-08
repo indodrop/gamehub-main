@@ -1,2 +1,2 @@
-# gamehub-main
- 
+# Gamehub
+This website is for... educational purposes...
